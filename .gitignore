@@ -1,7 +1,6 @@
+
 __pycache__/
-*.pyc
-*.h5
-*.pkl
-.env
 venv/
-.vscode/
+.env
+*.pyc
+.DS_Store
